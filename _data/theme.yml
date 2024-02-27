@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: <iframe frameborder='0' width='100%' height='625px' src='https://digital.ncdcr.gov/Documents/Detail/iframe/3657359?allImages=false&includeSummary=false&includeTranscript=false&includeContents=false&startImageOrSelectedImage=3657386'></iframe>
+featured-image: black_mtn_nrocure.png
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
