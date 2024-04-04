@@ -1,17 +1,17 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910-10-14,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
-coll002,change_in_insurance_richards,,,M.C. Richards' Change in Insurance,,1958-05-28,Letter to M.C. Richards regarding enrolling in insurance in North Carolina,,"Black Mountain, NC",,,Black Mountain Archives,change_in_insurance_richards,PDF,PDF,eng,,
-coll003,complete_zabriske_letters,,,Letters from George Zabriskie,"George Zabriskie, others",1944-05-29,Correspondences including those to and from G. Zabriskie regarding college matters,,,,,Black Mountain Archives,complete_zabriske_letters,PDF,PDF,eng,,
-coll004,letter_from_zabriske,,,,,,,,,,,Black Mountain Archives,,,,,,
-coll005,letter_to_wunsch_recommending_zabriske,,,,,,,,,,,Black Mountain Archives,,,,,,
-coll006,letters_between_wunsch_hiring,,,,,,,,,,,Black Mountain Archives,,,,,,
-coll007,mc_richards_change_report_card,,,,,,,,,,,Black Mountain Archives,,,,,,
-coll008,mc_richards_year_round_plan,,,,,,,,,,,Black Mountain Archives,,,,,,
-coll009,postcard_to_hla_from_mcr,,,,,,,,,,,Black Mountain Archives,,,,,,
+coll002,change_in_insurance_richards,,,M.C. Richards' Change in Insurance,,1958-05-28,Letter to M.C. Richards regarding enrolling in insurance in North Carolina,,"Black Mountain, NC",,,Western Regional Archives,change_in_insurance_richards,Correspondence,PDF,eng,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
+coll003,complete_zabriske_letters,,,Letters from George Zabriskie,"George Zabriskie, others",1944-05-29,Correspondences including those to and from G. Zabriskie regarding college matters,,"Black Mountain, NC",,,Western Regional Archives,complete_zabriske_letters,Correspondence,PDF,eng,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
+coll004,letter_from_zabriske,,,Letters from George Zabriskie 2,"George Zabriskie, others",1944,,,"Black Mountain, NC",,,Western Regional Archives,letter_from_zabriske,Correspondence,PDF,,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
+coll005,letter_to_wunsch_recommending_zabriske,,,Correspondance Regarding George Zabriskie,"George Zabriskie, others",1944,,,"Black Mountain, NC",,,Western Regional Archives,letter_to_wunsch_recommending_zabriske,Correspondence,PDF,,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
+coll006,letters_between_wunsch_hiring,,,Correspondance Regarding George Zabriskie,"George Zabriskie, others",1944,,,"Black Mountain, NC",,,Western Regional Archives,letters_between_wunsch_hiring,Correspondence,PDF,,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
+coll007,mc_richards_change_report_card,,,Report Card Change Request,M.C. Richards,,,,"Black Mountain, NC",,,Western Regional Archives,mc_richards_change_report_card,Correspondence,PDF,,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
+coll008,mc_richards_year_round_plan,,,M.C. Richards Year Round Plan,M.C. Richards,,,,"Black Mountain, NC",,,Western Regional Archives,mc_richards_year_round_plan,Correspondence,PDF,,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
+coll009,postcard_to_hla_from_mcr,,,Post Card from Hazel Larsen Archer to M.C. Richards,Hazel Larsen Archer,,,,"Black Mountain, NC",,,Western Regional Archives,postcard_to_hla_from_mcr,Correspondence,PDF,,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
 coll010,arthur_penn_drama_47_48,,,"N.C.D.A. &H. , Raleigh, BMC topers, Vol. II, Box 6,"" Course Descriptions, 1947-1948( Second Semester).” [Mimeographed.]
 
-",,1947,"Document detailing courses taught by student-teachers under the supervision of
-regular faculty members for the 1947-48 academic year.",,"Black Mountain, NC",,,Black Mountain Archives,arthur_penn_drama_47_48,PDF,PDF,eng,,
-coll011,bmc_newsletter_bmc_vs_stjohns_1941,,,Black Mountain College Newsletter Number 12 March 1941,,1941,"Newsletter article on Scott Buchanan, a visiting speaker from St John's College in Annapolis, Maryland",,"Black Mountain, NC",,,Black Mountain Archives,bmc_newsletter_bmc_vs_stjohns_1941,PDF,PDF,eng,,
+",Black Mountain College,1947,"Document detailing courses taught by student-teachers under the supervision of
+regular faculty members for the 1947-48 academic year.",,"Black Mountain, NC",,,Western Regional Archives,arthur_penn_drama_47_48,PDF,PDF,eng,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
+coll011,bmc_newsletter_bmc_vs_stjohns_1941,,,Black Mountain College Newsletter Number 12 March 1941,Black Mountain College,1941,"Newsletter article on Scott Buchanan, a visiting speaker from St John's College in Annapolis, Maryland",,"Black Mountain, NC",,,Western Regional Archives,bmc_newsletter_bmc_vs_stjohns_1941,PDF,PDF,eng,Western Regional Archives ,https://archives.ncdcr.gov/researchers/services/permissions-and-citations
 coll012,,,,,,,,,,,,,,,,,,
 coll013,,,,,,,,,,,,,,,,,,
